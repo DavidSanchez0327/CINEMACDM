@@ -7,3 +7,12 @@ C:\Users\cristhian.mongui\Desktop\CinemaCDM.Domain\obj\Debug\netstandard2.0\Cine
 C:\Users\cristhian.mongui\Desktop\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.AssemblyInfo.cs
 C:\Users\cristhian.mongui\Desktop\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.dll
 C:\Users\cristhian.mongui\Desktop\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.pdb
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\bin\Debug\netstandard2.0\CinemaCDM.Domain.deps.json
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\bin\Debug\netstandard2.0\CinemaCDM.Domain.dll
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\bin\Debug\netstandard2.0\CinemaCDM.Domain.pdb
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.csprojAssemblyReference.cache
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.AssemblyInfoInputs.cache
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.AssemblyInfo.cs
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.dll
+C:\Users\cristhian.mongui\Desktop\Taller\CinemaCDM.Domain\obj\Debug\netstandard2.0\CinemaCDM.Domain.pdb

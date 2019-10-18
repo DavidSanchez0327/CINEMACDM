@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristhian.mongui\\Desktop\\CinemaCDM.Domain\\CinemaCDM.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\cristhian.mongui\\Desktop\\Taller\\CinemaCDM.Domain\\CinemaCDM.Domain.csproj",
       "projectName": "CinemaCDM.Domain",
-      "projectPath": "C:\\Users\\cristhian.mongui\\Desktop\\CinemaCDM.Domain\\CinemaCDM.Domain.csproj",
+      "projectPath": "C:\\Users\\cristhian.mongui\\Desktop\\Taller\\CinemaCDM.Domain\\CinemaCDM.Domain.csproj",
       "packagesPath": "C:\\Users\\cristhian.mongui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristhian.mongui\\Desktop\\CinemaCDM.Domain\\obj\\",
+      "outputPath": "C:\\Users\\cristhian.mongui\\Desktop\\Taller\\CinemaCDM.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
